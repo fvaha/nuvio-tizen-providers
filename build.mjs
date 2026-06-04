@@ -24,7 +24,7 @@ function transpile(code) {
     presets: [["@babel/preset-env", { targets: "chrome 47" }]],
     compact: true,
     comments: false,
-    sourceType: "script",
+    sourceType: "unambiguous",
   }).code;
 }
 
