@@ -20,7 +20,8 @@ async function getText(url) {
 }
 
 function transpile(code) {
-  return transformSync(code, {
+  const src = String(code).replace(/^#![^\n]*\n?/, "");
+  return transformSync(src, {
     presets: [["@babel/preset-env", { targets: "chrome 47" }]],
     compact: true,
     comments: false,
