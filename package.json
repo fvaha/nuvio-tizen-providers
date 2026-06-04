@@ -1,0 +1,14 @@
+{
+  "name": "nuvio-tizen-providers",
+  "version": "1.0.0",
+  "description": "Daily-built bundle of Nuvio scraper providers, transpiled to Chromium 47 for Tizen / legacy webOS TVs.",
+  "type": "module",
+  "license": "MIT",
+  "scripts": {
+    "build": "node build.mjs"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.29.0",
+    "@babel/preset-env": "^7.29.2"
+  }
+}

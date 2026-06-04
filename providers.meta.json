@@ -1,0 +1,30 @@
+{
+  "builtAt": "2026-06-04T16:15:41.155Z",
+  "count": 98,
+  "repos": [
+    {
+      "id": "yoru",
+      "count": 25
+    },
+    {
+      "id": "allinone",
+      "count": 41
+    },
+    {
+      "id": "phisher",
+      "count": 1
+    },
+    {
+      "id": "ray",
+      "count": 20
+    },
+    {
+      "id": "michat",
+      "count": 8
+    },
+    {
+      "id": "asura",
+      "count": 3
+    }
+  ]
+}

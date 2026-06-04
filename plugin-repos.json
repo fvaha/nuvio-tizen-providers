@@ -1,0 +1,11 @@
+{
+  "_comment": "Scraper plugin repos to bundle for the Tizen/webOS TV runtime (Chromium 47). Add a repo here; the daily GitHub Action transpiles all providers and publishes providers.json. Each repo must expose manifest.json listing its scrapers.",
+  "repos": [
+    { "id": "yoru", "base": "https://raw.githubusercontent.com/yoruix/nuvio-providers/refs/heads/main/" },
+    { "id": "allinone", "base": "https://raw.githubusercontent.com/D3adlyRocket/All-in-One-Nuvio/refs/heads/main/" },
+    { "id": "phisher", "base": "https://raw.githubusercontent.com/phisher98/phisher-nuvio-providers/refs/heads/main/" },
+    { "id": "ray", "base": "https://raw.githubusercontent.com/hihihihihiiray/plugins/refs/heads/main/" },
+    { "id": "michat", "base": "https://raw.githubusercontent.com/michat88/nuvio-providers/refs/heads/main/" },
+    { "id": "asura", "base": "https://raw.githubusercontent.com/PirateZoro9/asura-providers/refs/heads/main/" }
+  ]
+}
