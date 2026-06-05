@@ -1,6 +1,6 @@
 {
-  "builtAt": "2026-06-05T14:00:05.966Z",
-  "count": 99,
+  "builtAt": "2026-06-05T15:02:06.760Z",
+  "count": 101,
   "repos": [
     {
       "id": "yoru",
@@ -25,6 +25,10 @@
     {
       "id": "asura",
       "count": 3
+    },
+    {
+      "id": "custom",
+      "count": 2
     }
   ]
 }
