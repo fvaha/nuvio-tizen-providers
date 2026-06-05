@@ -1,0 +1,8 @@
+{
+  "name": "Tizen Custom",
+  "_comment": "Hand-ported scraper providers maintained in this repo (not mirrored from an external repo). Ported to the Nuvio getStreams contract for the Tizen/Chromium-47 runtime.",
+  "scrapers": [
+    { "id": "soapertv", "name": "SoaperTV", "filename": "providers/soapertv.js", "supportedTypes": ["movie", "tv"] },
+    { "id": "vidzee", "name": "VidZee", "filename": "providers/vidzee.js", "supportedTypes": ["movie", "tv"] }
+  ]
+}

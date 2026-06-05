@@ -6,6 +6,7 @@
     { "id": "phisher", "base": "https://raw.githubusercontent.com/phisher98/phisher-nuvio-providers/refs/heads/main/" },
     { "id": "ray", "base": "https://raw.githubusercontent.com/hihihihihiiray/plugins/refs/heads/main/" },
     { "id": "michat", "base": "https://raw.githubusercontent.com/michat88/nuvio-providers/refs/heads/main/" },
-    { "id": "asura", "base": "https://raw.githubusercontent.com/PirateZoro9/asura-providers/refs/heads/main/" }
+    { "id": "asura", "base": "https://raw.githubusercontent.com/PirateZoro9/asura-providers/refs/heads/main/" },
+    { "id": "custom", "base": "https://raw.githubusercontent.com/fvaha/nuvio-tizen-providers/main/custom/" }
   ]
 }
