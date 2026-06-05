@@ -2,7 +2,6 @@
   "name": "Tizen Custom",
   "_comment": "Hand-ported / vendored scraper providers maintained in this repo (not mirrored from an external repo). Ported to the Nuvio getStreams contract for the Tizen/Chromium-47 runtime.",
   "scrapers": [
-    { "id": "vidzee", "name": "VidZee", "filename": "providers/vidzee.js", "supportedTypes": ["movie", "tv"] },
     { "id": "twoembed", "name": "2Embed", "filename": "providers/twoembed.js", "supportedTypes": ["movie", "tv"] },
     { "id": "myembed", "name": "MyEmbed", "filename": "providers/myembed.js", "supportedTypes": ["movie", "tv"] }
   ]
