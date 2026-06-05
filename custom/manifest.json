@@ -4,6 +4,9 @@
   "scrapers": [
     { "id": "soapertv", "name": "SoaperTV", "filename": "providers/soapertv.js", "supportedTypes": ["movie", "tv"] },
     { "id": "vidzee", "name": "VidZee", "filename": "providers/vidzee.js", "supportedTypes": ["movie", "tv"] },
-    { "id": "twoembed", "name": "2Embed", "filename": "providers/twoembed.js", "supportedTypes": ["movie", "tv"] }
+    { "id": "twoembed", "name": "2Embed", "filename": "providers/twoembed.js", "supportedTypes": ["movie", "tv"] },
+    { "id": "myembed", "name": "MyEmbed", "filename": "providers/myembed.js", "supportedTypes": ["movie", "tv"] },
+    { "id": "pomfy", "name": "Pomfy", "filename": "providers/pomfy.js", "supportedTypes": ["movie", "tv"] },
+    { "id": "doramogo", "name": "Doramogo", "filename": "providers/doramogo.js", "supportedTypes": ["movie", "tv"] }
   ]
 }
