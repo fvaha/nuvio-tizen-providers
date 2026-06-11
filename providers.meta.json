@@ -1,6 +1,6 @@
 {
-  "builtAt": "2026-06-10T08:09:52.183Z",
-  "count": 105,
+  "builtAt": "2026-06-11T08:47:51.742Z",
+  "count": 104,
   "repos": [
     {
       "id": "yoru",
@@ -8,7 +8,7 @@
     },
     {
       "id": "allinone",
-      "count": 43
+      "count": 42
     },
     {
       "id": "phisher",
